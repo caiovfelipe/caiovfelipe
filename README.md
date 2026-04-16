@@ -3,6 +3,10 @@
 <h1 align="left">Hi, I'm Caio Felipe</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiovfelipe&color=yellow" alt="Profile views" /> </p>
 
+Perfil só pra guardar alguns programa, boa parte agora na area de auditoria fiscal. 
+Peace.
+
+
 - 🔥 Fullstack student
 
 - 🔭 I’m currently studying C
